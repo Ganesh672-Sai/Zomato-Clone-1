@@ -35,13 +35,6 @@ It is a beginner friendly project to start work upon, where you can learn:
 
 <hr>
 
-## Contributing
-
-Contributions are always welcome!
-
-See [CONTRIBUTIONS.md](https://github.com/SuperAayush/Zomato-Clone/blob/main/CONTRIBUTING.md) for ways to get started.
-
-Please adhere to this project's [code of conduct](https://github.com/SuperAayush/Zomato-Clone/blob/main/CODE_OF_CONDUCT.md).
 
 <hr>
 
